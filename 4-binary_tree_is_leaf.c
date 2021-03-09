@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * binary_tree_is_leaf - fcheck if node is empty
+ * binary_tree_is_leaf - check if node is empty
  * @node: pointer to node
  * Return: 1 or 0
  */
